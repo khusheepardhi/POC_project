@@ -10,3 +10,4 @@ notebook
 python-dotenv
 streamlit
 joblib
+altair==4.2.2
